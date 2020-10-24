@@ -64,7 +64,7 @@ Profesor: Fauricio Alban Conejo Navarro
     
     c) Debe de tener la documentación con la metodología ágil.Ejemplo. Scrum, Kanban, Scrumban, RAD, JAD, XP, MVP, MVC.
 
-    <img src="Week 4 Advance 1\Exercise 4\avance2Ejerecicio4"
+    <img src="Week 4 Advance 1\Exercise 4\avance2Ejerecicio4.png"
         alt="Ejercicio 1"
         style="height: 300px; width: 400px;" />
 
