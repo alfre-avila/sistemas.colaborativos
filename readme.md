@@ -48,7 +48,15 @@ Profesor: Fauricio Alban Conejo Navarro
 
     b) Cada objeto debe pertenecer a una clase descrita dentro del Diagrama de Clases establecido en el sistema. (Se parte de la premisa, de que si un objeto es una instancia de una clase, este no podría existir si no está establecida la clase previamente). c)Los mensajes deben invocar métodos en los objetos destino.
 
-    <img src="Week 4 Advance 1/Exercise 3/Client Bank Account Creation.png"
+    <img src="Week 4 Advance 1/Exercise 3/ClientBankAccountCreation.png"
+        alt="Ejercicio 1"
+        style="height: 300px; width: 400px;" />
+
+    <img src="Week 4 Advance 1/Exercise 3/Transfer.png"
+        alt="Ejercicio 1"
+        style="height: 300px; width: 400px;" />
+
+    <img src="Week 4 Advance 1/Exercise 3/LoanPayment.png"
         alt="Ejercicio 1"
         style="height: 300px; width: 400px;" />
 
@@ -62,7 +70,7 @@ Profesor: Fauricio Alban Conejo Navarro
     
     b) Debe poder tener la capacidad de poder abrir la interfaz en diferentes ambientes de sistemas operativos y no tener problema con la vista del usuario.
     
-    c) Debe de tener la documentación con la metodología ágil.Ejemplo. Scrum, Kanban, Scrumban, RAD, JAD, XP, MVP, MVC.
+    c) Debe de tener la documentación con la metodología ágil. Ejemplo. Scrum, Kanban, Scrumban, RAD, JAD, XP, MVP, MVC.
 
     <img src="Week 4 Advance 1\Exercise 4\avance2Ejerecicio4.png"
         alt="Ejercicio 1"
