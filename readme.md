@@ -80,19 +80,24 @@ Profesor: Fauricio Alban Conejo Navarro
 
 5) Para  el  caso  de  un  PRODUCTO,  entendido  este  como  un  objeto  del  sistema  que atraviesa  por  múltiples  estados desde  que  es        solicitado  a  su  fabricante,  llega  a  las bodegas de la empresa, es colocado en las sucursales y es comprado por el cliente. Desarrolle un Diagrama de Redpara el objeto PRODUCTO que represente su ciclo de vidade transporte. (Valor 10pts) 
 
-    <img src="Week 4 Advance 1\Exercise 5\RequestBankAccountNetworkDiagram.png"
+    <img src="Week 8 Advance 2\Exercise 5\RequestBankAccountNetworkDiagram.png"
         alt="Ejercicio 1"
         style="height: 300px; width: 400px;" />
 
-#### Ejercicio 5
+#### Ejercicio 6
 
-#### Ejercicio 7
-
+6) Tomando en cuenta que la cadena de restaurantes tiene como política la implementación de sus sistemas en múltiples capas de seguridad, establezca un diseño de implementación, con un Diagrama de Despliegue que incluya nodos en un modelo de tres capas (Presentación, Aplicación y Datos). (Valor 10pts)
 
 ### Avance 3
 
 #### Ejercicio 7
 
+7) Debe crear el documento completo de NRAF (Network Request Access Form). (Valor 10pts).
+
 #### Ejercicio 8
 
+8) Debe crear el documento completo de BOM (Bill of Material). (Valor 10pts).
+
 #### Ejercicio 9
+
+9) Debe crear la documentación para Sistema de Open Flow para la administración de red y seguridad. (Valor 10pts).
