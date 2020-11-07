@@ -64,7 +64,7 @@ Profesor: Fauricio Alban Conejo Navarro
 
 #### Ejercicio 4
 
-4) Debe crear el ambiente virtualweb. (Valor 10pts) 
+4) Debe crear el ambiente virtual web. (Valor 10pts) 
     
     a) Debe  tener  conectividad  y  estar  vivo  en  el  internet  para  ser  utilizado  desde cualquier método de preferencia de web browser.
     
@@ -80,7 +80,9 @@ Profesor: Fauricio Alban Conejo Navarro
 
 5) Para  el  caso  de  un  PRODUCTO,  entendido  este  como  un  objeto  del  sistema  que atraviesa  por  múltiples  estados desde  que  es        solicitado  a  su  fabricante,  llega  a  las bodegas de la empresa, es colocado en las sucursales y es comprado por el cliente. Desarrolle un Diagrama de Redpara el objeto PRODUCTO que represente su ciclo de vidade transporte. (Valor 10pts) 
 
-    *[Abrir el ejercicio 4]()*
+    <img src="Week 4 Advance 1\Exercise 5\RequestBankAccountNetworkDiagram.png"
+        alt="Ejercicio 1"
+        style="height: 300px; width: 400px;" />
 
 #### Ejercicio 5
 
