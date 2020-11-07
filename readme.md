@@ -4,6 +4,9 @@
 
 Profesor: Fauricio Alban Conejo Navarro
 
+Alumnos:
+    - Alfredo Ávila González - 2015010558
+
 ## Laboratorio
 
 ### Avance 1
