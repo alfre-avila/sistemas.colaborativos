@@ -101,9 +101,13 @@ Alumnos:
 
 8) Debe crear el documento completo de BOM (Bill of Material). (Valor 10pts).
 
-<img src="Advance 3\Exercise 8\BOM.png"
+<img src="Advance 3\Exercise 8\LogicalPlatformBOM.png"
         alt="Ejercicio 1"
         style="height: 160px; width: 650px;" />
+        
+<img src="Advance 3\Exercise 8\LogicalNetworkPlatformBOM.png"
+        alt="Ejercicio 1"
+        style="height: 250px; width: 650px;" />
 
 #### Ejercicio 9
 
