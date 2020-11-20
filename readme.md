@@ -87,6 +87,10 @@ Alumnos:
 
 6) Tomando en cuenta que la cadena de restaurantes tiene como política la implementación de sus sistemas en múltiples capas de seguridad, establezca un diseño de implementación, con un Diagrama de Despliegue que incluya nodos en un modelo de tres capas (Presentación, Aplicación y Datos). (Valor 10pts)
 
+<img src="Advance 2\Exercise 6\Diagrama de despliegue.png"
+    alt="Ejercicio 6"
+    style="height: 300px; width: 400px;" />
+
 ### Avance 3
 
 #### Ejercicio 7
