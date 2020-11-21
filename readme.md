@@ -116,3 +116,7 @@ Alumnos:
 #### Ejercicio 9
 
 9) Debe crear la documentación para Sistema de Open Flow para la administración de red y seguridad. (Valor 10pts).
+
+<img src="Advance 3\Exercise 9\OpenFlowDiagram.png"
+        alt="Ejercicio 1"
+        style="height: 650px; width: 650px;" />
