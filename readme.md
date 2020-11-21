@@ -97,9 +97,9 @@ Alumnos:
 
 7) Debe crear el documento completo de NRAF (Network Request Access Form). (Valor 10pts).
 
-<img src="Advance 3\Exercise 7\NRAF.png"
+<img src="Advance 3\Exercise 7\NRAF2.png"
         alt="Ejercicio 1"
-        style="height: 70px; width: 600px;" />
+        style="height: 130px; width: 600px;" />
 
 #### Ejercicio 8
 
