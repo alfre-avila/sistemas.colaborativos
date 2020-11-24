@@ -6,6 +6,7 @@ Profesor: Fauricio Alban Conejo Navarro
 
 Alumnos:
 * Alfredo Ávila González - 2015010558
+* Anny Yariela Mora Naranjo - 20180111967
 
 ## Laboratorio
 
