@@ -112,7 +112,7 @@ Alumnos:
         
 <img src="Advance 3\Exercise 8\LogicalNetworkPlatformBOM.png"
         alt="Ejercicio 1"
-        style="height: 250px; width: 650px;" />
+        style="height: 350px; width: 650px;" />
 
 #### Ejercicio 9
 
